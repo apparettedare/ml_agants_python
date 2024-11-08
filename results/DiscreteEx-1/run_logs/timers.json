@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1731064339",
+        "python_version": "3.8.12 (default, Nov  7 2024, 14:57:28) \n[Clang 16.0.0 (clang-1600.0.26.4)]",
+        "command_line_arguments": "/Users/apparettedare/ml_agents_python/ml_agents/bin/mlagents-learn config/sample/DiscreteEx.yaml --run-id=DiscreteEx-1 --env=/Users/apparettedare/RollerBall/rollerball_app.app --num-envs=8 --force",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.8.1",
+        "numpy_version": "1.19.5",
+        "end_time_seconds": "1731064351"
+    },
+    "total": 11.547755494,
+    "count": 1,
+    "self": 1.536959414,
+    "children": {
+        "run_training.setup": {
+            "total": 0.15053758400000006,
+            "count": 1,
+            "self": 0.15053758400000006
+        },
+        "TrainerController.start_learning": {
+            "total": 9.860258496,
+            "count": 1,
+            "self": 0.001166601999999628,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 9.859046908,
+                    "count": 1,
+                    "self": 9.859046908
+                },
+                "TrainerController._save_models": {
+                    "total": 4.498600000069075e-05,
+                    "count": 1,
+                    "self": 4.498600000069075e-05
+                }
+            }
+        }
+    }
+}

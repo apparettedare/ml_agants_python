@@ -1,0 +1,51 @@
+Mono path[0] = '/Users/apparettedare/RollerBall/rollerball_app.app/Contents/Resources/Data/Managed'
+Mono config path = '/Users/apparettedare/RollerBall/rollerball_app.app/Contents/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.38f1 (8f5fde82e2dc)
+[Subsystems] Discovering subsystems at path /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Resources/Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+2024-11-08 20:27:09.428 RollerBall[81454:554699] Color LCD preferred device: Intel(R) UHD Graphics 617 (low power)
+2024-11-08 20:27:09.428 RollerBall[81454:554699] Metal devices available: 1
+2024-11-08 20:27:09.429 RollerBall[81454:554699] 0: Intel(R) UHD Graphics 617 (low power)
+2024-11-08 20:27:09.509 RollerBall[81454:554699] Using device Intel(R) UHD Graphics 617 (low power)
+Initializing Metal device caps: Intel(R) UHD Graphics 617
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.683 seconds
+UnloadTime: 2.656939 ms
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.dylib
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.bundle
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.dylib
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.bundle
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.dylib
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.bundle
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.dylib
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.bundle
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7000024b5000 -> priority: 1 
+  Thread -> id: 700002538000 -> priority: 1 
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32.dll
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dylib
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.bundle
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/apparettedare/RollerBall/rollerball_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
